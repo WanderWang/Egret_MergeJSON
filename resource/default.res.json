@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "1_json,2_json,3_json,4_json,5_json,6_json,7_json,8_json,9_json,10_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "1_json",
+			"type": "json",
+			"url": "config/1.json"
+		},
+		{
+			"name": "2_json",
+			"type": "json",
+			"url": "config/2.json"
+		},
+		{
+			"name": "3_json",
+			"type": "json",
+			"url": "config/3.json"
+		},
+		{
+			"name": "4_json",
+			"type": "json",
+			"url": "config/4.json"
+		},
+		{
+			"name": "5_json",
+			"type": "json",
+			"url": "config/5.json"
+		},
+		{
+			"name": "6_json",
+			"type": "json",
+			"url": "config/6.json"
+		},
+		{
+			"name": "7_json",
+			"type": "json",
+			"url": "config/7.json"
+		},
+		{
+			"name": "8_json",
+			"type": "json",
+			"url": "config/8.json"
+		},
+		{
+			"name": "9_json",
+			"type": "json",
+			"url": "config/9.json"
+		},
+		{
+			"name": "10_json",
+			"type": "json",
+			"url": "config/10.json"
+		}
+	]
+}
